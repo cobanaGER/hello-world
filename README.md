@@ -1,3 +1,3 @@
 # hello-world
 
-this is my first time working with github
+i deleted this line
